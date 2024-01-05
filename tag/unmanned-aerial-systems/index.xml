@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unmanned aerial systems | Michael Lotinga</title>
+    <link>https://mlotinga.github.io/tag/unmanned-aerial-systems/</link>
+      <atom:link href="https://mlotinga.github.io/tag/unmanned-aerial-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unmanned aerial systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlotinga.github.io/media/icon_hubc63478cb9977d3aa90991ce1de11bf9_611920_512x512_fill_lanczos_center_3.png</url>
+      <title>Unmanned aerial systems</title>
+      <link>https://mlotinga.github.io/tag/unmanned-aerial-systems/</link>
+    </image>
+    
+    <item>
+      <title>REFMAP - Reducing Environmental Footprint through transformative Multi-scale Aviation Planning</title>
+      <link>https://mlotinga.github.io/project/refmap/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlotinga.github.io/project/refmap/</guid>
+      <description>&lt;p&gt;REFMAP is an EU HORIZON-funded collaborative research project that aims to reduce the environmental impact of air travel for airlines and Unmanned Aerial Systems (UAS) by creating a digital service that optimises flight trajectories on both micro and macro levels.&lt;/p&gt;
+&lt;p&gt;REFMAP is being delivered by a consortium of academic and industry partners. The University of Salford&amp;rsquo;s Acoustics Research Centre is addressing potential noise issues of UAS to unlock the substantial financial, environmental and societal benefits of these novel vehicles. We are investigating UAS sound characteristics and impacts from psychoacoustic and ecological perspectives, considering the effects of noise on human health and well-being, as well as on wildlife.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
